@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/galeyapp/static/css/main.de331f17.chunk.css",
+    "main.js": "/galeyapp/static/js/main.1d05b811.chunk.js",
+    "main.js.map": "/galeyapp/static/js/main.1d05b811.chunk.js.map",
+    "runtime-main.js": "/galeyapp/static/js/runtime-main.1acd3b8a.js",
+    "runtime-main.js.map": "/galeyapp/static/js/runtime-main.1acd3b8a.js.map",
+    "static/js/2.6986dc58.chunk.js": "/galeyapp/static/js/2.6986dc58.chunk.js",
+    "static/js/2.6986dc58.chunk.js.map": "/galeyapp/static/js/2.6986dc58.chunk.js.map",
+    "index.html": "/galeyapp/index.html",
+    "precache-manifest.030a2ab65ea98f52f35b2446f206cca8.js": "/galeyapp/precache-manifest.030a2ab65ea98f52f35b2446f206cca8.js",
+    "service-worker.js": "/galeyapp/service-worker.js",
+    "static/css/main.de331f17.chunk.css.map": "/galeyapp/static/css/main.de331f17.chunk.css.map",
+    "static/js/2.6986dc58.chunk.js.LICENSE.txt": "/galeyapp/static/js/2.6986dc58.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1acd3b8a.js",
+    "static/js/2.6986dc58.chunk.js",
+    "static/css/main.de331f17.chunk.css",
+    "static/js/main.1d05b811.chunk.js"
+  ]
+}
